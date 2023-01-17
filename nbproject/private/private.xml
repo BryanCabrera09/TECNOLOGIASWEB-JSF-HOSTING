@@ -5,11 +5,14 @@
         <group>
             <file>file:/D:/TECAZUAY/M5A/Tendencias%20Actuales/Proyectos/Netbeans%208.2/EjemploJsf/src/java/modelo/Empleado.java</file>
             <file>file:/D:/TECAZUAY/M5A/Tendencias%20Actuales/Proyectos/Netbeans%208.2/EjemploJsf/web/tempbase.xhtml</file>
+            <file>file:/D:/TECAZUAY/M5A/Tendencias%20Actuales/Proyectos/Netbeans%208.2/EjemploJsf/web/WEB-INF/glassfish-resources.xml</file>
+            <file>file:/D:/TECAZUAY/M5A/Tendencias%20Actuales/Proyectos/Netbeans%208.2/EjemploJsf/web/departamento/List.xhtml</file>
             <file>file:/D:/TECAZUAY/M5A/Tendencias%20Actuales/Proyectos/Netbeans%208.2/EjemploJsf/src/java/modelo/Departamento.java</file>
-            <file>file:/D:/TECAZUAY/M5A/Tendencias%20Actuales/Proyectos/Netbeans%208.2/EjemploJsf/web/resources/css/cssLayout.css</file>
+            <file>file:/D:/TECAZUAY/M5A/Tendencias%20Actuales/Proyectos/Netbeans%208.2/EjemploJsf/web/template.xhtml</file>
             <file>file:/D:/TECAZUAY/M5A/Tendencias%20Actuales/Proyectos/Netbeans%208.2/EjemploJsf/web/ViewClient.xhtml</file>
             <file>file:/D:/TECAZUAY/M5A/Tendencias%20Actuales/Proyectos/Netbeans%208.2/EjemploJsf/web/index.xhtml</file>
-            <file>file:/D:/TECAZUAY/M5A/Tendencias%20Actuales/Proyectos/Netbeans%208.2/EjemploJsf/web/empleado/List.xhtml</file>
+            <file>file:/D:/TECAZUAY/M5A/Tendencias%20Actuales/Proyectos/Netbeans%208.2/EjemploJsf/web/departamento/Edit.xhtml</file>
+            <file>file:/D:/TECAZUAY/M5A/Tendencias%20Actuales/Proyectos/Netbeans%208.2/EjemploJsf/web/welcomePrimefaces.xhtml</file>
         </group>
     </open-files>
 </project-private>
